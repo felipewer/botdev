@@ -26,7 +26,7 @@ If it does not exist yet, create a `workspace` folder inside your user's home an
 ```
 mkdir -p ~/workspace
 cd ~/workspace
-git clone ...
+git clone git@github.com:felipewer/botdev.git
 ```
 
 ## Generating the container image
