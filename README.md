@@ -4,7 +4,7 @@ Container for bot server development using nodejs.
 
 ## Prerequisites
 
-You must have a ssh server facing the internet running someplace.
+You must have an ssh server facing the internet running someplace.
 
 Ex.:
 
